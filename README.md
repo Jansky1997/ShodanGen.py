@@ -15,6 +15,12 @@ ShodanGen.py will inform you about that in the terminal output. **ERROR: Account
 
 ShodanGen.py uses the API of temp-mail.io to create e-mail adresses and automatically activate the accounts.
 
+## Features
+
+** Multithreaded account creation **
+** Color encoded output **
+** Logging component **
+
 ## Parameters
 
 **-o (Output)**  
