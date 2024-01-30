@@ -17,9 +17,11 @@ ShodanGen.py uses the API of temp-mail.io to create e-mail adresses and automati
 
 ## Features
 
-** Multithreaded account creation **
-** Color encoded output **
-** Logging component **
+**Multithreaded account creation**
+
+**Color encoded output**
+
+**Logging component**
 
 ## Parameters
 
