@@ -1,2 +1,4 @@
 # ShodanGen.py
-Shodan Account Generator
+Shodan Free Account Generator Script
+
+## Quick Start
